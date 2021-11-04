@@ -5,6 +5,7 @@ console.log('hi' + 'ya'); // Prints 'hiya'
 console.log('wo' + 'ah'); // Prints 'woah'
 console.log('I love to ' + 'code.')
 // Prints 'I love to code.'
+
 This process of appending one string to another is called concatenation. Notice in the third example we had to make sure to include a space at the end of the first string. The computer will join the strings exactly, so we needed to make sure to include the space we wanted between the two strings.
 
 console.log('front ' + 'space'); 
