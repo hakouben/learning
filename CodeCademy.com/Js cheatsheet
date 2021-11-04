@@ -1,0 +1,14 @@
+1-Methods:
+
+Methods return information about an object, and are called by appending an instance with a period ., the method name, and parentheses.
+Exemple:    Math.random();
+
+2-Libraries:
+Libraries contain methods that can be called by appending the library name with a period ., the method name, and a set of parentheses.
+Exemple:    Math.random();//  Math is the library
+
+3-console.log():
+The console.log() method is used to log or print messages to the console. It can also be used to print objects and other info.
+
+exemple :console.log('Hi there!'); // Prints: Hi there!;
+
